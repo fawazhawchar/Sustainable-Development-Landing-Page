@@ -1,0 +1,58 @@
+
+.services .main-icons {
+    width: 60px;
+}
+
+.services .why {
+    margin-bottom: 40px;
+}
+
+@media only screen and (max-width: 991px) and (min-width: 768px) {
+
+    .services .last-title {
+        margin-top:0px;
+        text-align: left;
+    }
+
+    .services .last-paragraph {
+        text-align: left;
+    }
+
+}
+
+.services {
+    text-align:center;
+    padding-top:60px;
+    padding-bottom:60px;
+}
+
+.services .main-title {
+    margin-bottom:60px;
+}
+
+.special-message {
+    background-color:#0099ff;
+}
+
+#wave-top {
+    margin-bottom:-10px;
+}
+
+#wave-bottom {
+    margin-top:-50px;
+}
+
+.special-message h2 {
+    color: white;
+}
+
+#wave-top svg {
+    margin-top:-250px;
+}
+
+@media (max-width:991px) {
+    .special-message h2 {
+        font-size:22px;
+        margin-bottom:40px;
+    }
+}
